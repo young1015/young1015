@@ -7,12 +7,6 @@
 ### Main tools:
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-<p align="center">
-<a href="https://github.com/young1015">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardxnathan&theme=dracula&include_all_commits=true&count_private=true&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardxnathan&theme=dracula&count_private=true&layout=compact&border_radius=20&hide=html"/>
-
-</a>
 
 ### Connect with me on Linkedin: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-young-dev/)
