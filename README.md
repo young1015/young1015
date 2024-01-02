@@ -7,7 +7,7 @@
  
   
 ### _**Languages Backend**_<!-- Languages Backend -->
-![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white);
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=FFFFFF)&nbsp;
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
